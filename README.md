@@ -42,9 +42,8 @@ Verifying JSON Structure & Data Types:
 ```javascript
 pm.test("Response contains 'userId' and it is a number", function () {
     var jsonData = pm.response.json();
-
-<img width="1540" height="722" alt="postman_results" src="https://github.com/user-attachments/assets/88dd0dbf-4b41-4eb4-9f25-5b72ad5dcb94" />
     pm.expect(jsonData).to.have.property("userId");
     pm.expect(jsonData.userId).to.be.a("number");
 });
 ```
+<img width="1540" height="722" alt="postman_results" src="https://github.com/user-attachments/assets/88dd0dbf-4b41-4eb4-9f25-5b72ad5dcb94" />
