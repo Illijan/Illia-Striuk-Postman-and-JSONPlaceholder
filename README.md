@@ -1,3 +1,4 @@
+<img width="1540" height="722" alt="postman_results" src="https://github.com/user-attachments/assets/88dd0dbf-4b41-4eb4-9f25-5b72ad5dcb94" />
 # QA API Testing Portfolio - JSONPlaceholder
 
 ## Project Overview
