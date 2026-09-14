@@ -1,4 +1,3 @@
-[QA API Portfolio - JSONPlaceholder.postman_collection.json](https://github.com/user-attachments/files/32190622/QA.API.Portfolio.-.JSONPlaceholder.postman_collection.json)
 # QA API Testing Portfolio - JSONPlaceholder
 
 ## Project Overview
