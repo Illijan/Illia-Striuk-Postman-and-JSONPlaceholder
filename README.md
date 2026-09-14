@@ -1,3 +1,4 @@
+[QA API Portfolio - JSONPlaceholder.postman_collection.json](https://github.com/user-attachments/files/32190622/QA.API.Portfolio.-.JSONPlaceholder.postman_collection.json)
 # QA API Testing Portfolio - JSONPlaceholder
 
 ## Project Overview
@@ -47,3 +48,5 @@ pm.test("Response contains 'userId' and it is a number", function () {
 });
 ```
 <img width="1540" height="722" alt="postman_results" src="https://github.com/user-attachments/assets/88dd0dbf-4b41-4eb4-9f25-5b72ad5dcb94" />
+
+[QA API Portfolio - JSONPlaceholder.postman_collection.json](https://github.com/user-attachments/files/32190630/QA.API.Portfolio.-.JSONPlaceholder.postman_collection.json)
